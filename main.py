@@ -1,1 +1,1 @@
-print("Hello mr luna")
+print("Hello code2college students")
